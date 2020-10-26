@@ -1,0 +1,13 @@
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.csprojAssemblyReference.cache
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.AssemblyInfoInputs.cache
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.AssemblyInfo.cs
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.csproj.CoreCompileInputs.cache
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.exe
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.deps.json
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.runtimeconfig.json
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.runtimeconfig.dev.json
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.dll
+C:\Users\armsa\source\repos\1_hafta\1_hafta\bin\Debug\netcoreapp3.1\1_hafta.pdb
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.dll
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.pdb
+C:\Users\armsa\source\repos\1_hafta\1_hafta\obj\Debug\netcoreapp3.1\1_hafta.genruntimeconfig.cache
