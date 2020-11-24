@@ -1,0 +1,13 @@
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.exe
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.deps.json
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.runtimeconfig.json
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.runtimeconfig.dev.json
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.dll
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\bin\Debug\netcoreapp3.1\Dikdortgen.pdb
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.csprojAssemblyReference.cache
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.AssemblyInfoInputs.cache
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.AssemblyInfo.cs
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.dll
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.pdb
+C:\Users\armsa\source\repos\Dikdortgen\Dikdortgen\obj\Debug\netcoreapp3.1\Dikdortgen.genruntimeconfig.cache
